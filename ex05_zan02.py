@@ -43,3 +43,6 @@ print( s1[0:20:2])
 print( 'python'.upper() )
 
 # %%
+
+print( '-' * 30)
+# %%
