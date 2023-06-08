@@ -28,7 +28,7 @@ if __name__ == '__main__':
     show('Text Editor', '1.4.5', 1, 2, 3, 4, 5)
 
     # 4.
-    show('Text Editor', '1.4.5', 1, 2, 3, 4, 5, font='monospace', color='red')
+    show('Text Editor', '1.4.5', 1, 2, 3, 4, 5, font='monospace', color='red', size=10)
     
 
     print('---')

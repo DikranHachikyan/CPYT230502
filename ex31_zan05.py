@@ -1,6 +1,7 @@
 # port - глобална променлива
 port = 1521
 # 1. дефиниция
+
 def sum_numbers(a, b, *args):
     # c - локална променлива
     print(f'type of args:{type(args)} args:{args}')
